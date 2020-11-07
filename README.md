@@ -1,1 +1,0 @@
-# login_no_provider_pattern
